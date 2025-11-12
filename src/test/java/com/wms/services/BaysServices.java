@@ -45,7 +45,7 @@ public class BaysServices {
 		}
 		
 		
-		//Bulk Upload
+		//Bulk Upload and send keys directly.
 		public BaysServices clickChooseFile() {
 			BaysObjects.getBaysButton().click();
 			BaysObjects.getBulkUploadButton().click();
