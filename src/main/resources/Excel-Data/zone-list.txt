@@ -1,0 +1,10 @@
+"Southwest Zone (ZSW-10)",
+"Northeast Zone (ZNE-09)",
+"Rural Zone (ZR-R08)",
+"Metro Zone (ZM-M07)",
+"Coastal Zone (ZCO-06)",
+"Central Zone (ZC-C05)",
+"West Supply Zone (ZW-S04)",
+"East Trade Zone (ZE-T03)",
+"South Zone (ZS-S02)",
+"North Zone (ZN-N01)"

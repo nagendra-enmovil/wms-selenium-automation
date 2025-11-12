@@ -1,0 +1,17 @@
+<?xmlversion = "1.0"encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <test name="All WMS Screens Test">
+        <classes>
+            <class name="com.wms.testscripts.LoginTestScript"/>
+            <class name="com.wms.testscripts.WarehouseTestScripts"/>
+            <class name="com.wms.testscripts.BinRackTestScripts"/>
+            <class name="com.wms.testscripts.BaysTestScripts"/>
+            <class name="com.wms.testscripts.TrolleysTestScripts"/>
+            <class name="com.wms.testscripts.KitTestScripts"/>
+            <class name="com.wms.testscripts.ProductsTestScripts"/>
+            <class name="com.wms.testscripts.ExecutivesTestScripts"/>
+        </classes>
+    </test>
+</suite>
+

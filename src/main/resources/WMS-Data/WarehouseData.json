@@ -1,0 +1,9 @@
+{
+	"warehouse_id" : "1234",
+	"warehouse_name" : "Enmovil",
+	"adress" : "Whitfields hyderabad",
+	"geo_codes" : "17.23, 72.61",
+	"pincode" : "500081",
+	"total_area" : "5000",
+	"storage_area" : "4500"
+}
